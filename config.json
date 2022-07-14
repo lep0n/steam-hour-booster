@@ -1,0 +1,18 @@
+{
+    "accounts": {
+        "1": {
+            "username": "username here",
+            "password": "password here",
+            "games": [
+                730,
+                440,
+                570
+            ]
+        },
+        "2": {
+            "username": "username here",
+            "password": "password here",
+            "games": [ 730 ]
+        }
+    }
+}
