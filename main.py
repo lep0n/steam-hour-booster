@@ -55,7 +55,7 @@ def main():
             continue
 
         client.games_played(valid_games)
-        print(f"[+] {username} connected successfully, start boosting...\n")
+        print(f"[✓] {username} connected successfully, start boosting...\n")
 
     client.run_forever()
 
