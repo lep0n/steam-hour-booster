@@ -6,8 +6,8 @@ Python application to increase your time in Steam games, also supports multiple 
 
 In the config.json file you need to enter the username and password of the accounts that need to be boost.
 
-Usage with Docker is shown below. Fill in config.json file and mount folder with users_data to Docker container.
-It can also work without Вocker in the command line. Just install python and dependencies.
+Usage with Docker is shown below. Fill in config.json file and mount folder with `users_data` to Docker container.
+It can also work without Docker in the command line. Just install Python 3 and dependencies.
 ```
 docker build -t hour-booster ./
 
