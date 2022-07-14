@@ -1,6 +1,9 @@
-# 🤖 Steam hour booster
+# 🚀 Steam hour booster
 
 Python application to increase your time in Steam games, also supports multiple accounts at the same time.
+
+## 🖼 Preview
+![Preview](https://i.imgur.com/VqpnYxV.png)
 
 ## ⚙ Configuration
 

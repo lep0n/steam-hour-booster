@@ -12,7 +12,9 @@
         "2": {
             "username": "username here",
             "password": "password here",
-            "games": [ 730 ]
+            "games": [
+                730
+            ]
         }
     }
 }
